@@ -13,4 +13,4 @@ The "*3_Macroscopic_Model_Prediction*" folder describes the predictions based on
 
 The "*4_Macroscopic_Model_Optimization*" folder describes the optimization based on the macroscopic model for N=300 and N=3000, with micro-data used to validate the results of the optimization in each subfolder.
 
-If you have any questions, please contact 2120050102@tiangong.edu.cn.
+If you have any questions, please contact us via e-mail (2120050102@tiangong.edu.cn).

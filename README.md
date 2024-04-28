@@ -9,4 +9,8 @@ The "*1_Microscopic_Model*" folder contains microscopic modeling procedures for 
 
 The "*2_Macroscopic_Model_Parameter_Identification*" folder mainly holds the macroscopic model parameter identification procedures using the gray-box system identifier method. Also included are the data used for identification and testing.
 
+The "*3_Macroscopic_Model_Prediction*" folder describes the predictions based on the macroscopic model and contains both the N=300 and N=3000 cases. The subfolder with N=3000 also contains the micro-data used to validate the results of the macroscopic model predictions.
 
+The "*4_Macroscopic_Model_Optimization*" folder describes the optimization based on the macroscopic model for N=300 and N=3000, with micro-data used to validate the results of the optimization in each subfolder.
+
+If you have any questions, please contact 2120050102@tiangong.edu.cn.
